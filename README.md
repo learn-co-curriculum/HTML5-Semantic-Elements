@@ -25,7 +25,7 @@ At the dawn of HTML, developers had but one common element that was used to crea
 </div>
 ```
 
-When the W3C (the organization that oversees the spec for HTML & CSS) started writing the spec for HTML5 they wanted to create new elements that would eliminate the need to label so many divs and make our code more readable for developers and more descriptive to browsers. Along with the help of Google hundreds of thousands of websites were scanned and all the most common id and class names were recorded. It turned out that many developers were in fact using the same names to label their elements. Such as `id="header"` or `"footer"`, `"main"`, `"nav"`, `"section"`, `"article"`, `"aside"`, etc. For each of these most common labels we now have elements we can use instead. So instead of
+When the W3C (the organization that oversees the spec for HTML & CSS) started writing the spec for HTML5 they wanted to create new elements that would eliminate the need to label so many divs and make our code more readable for developers and more descriptive to browsers. Along with the help of Google, hundreds of thousands of websites were scanned and all the most common id and class names were recorded. It turned out that many developers were in fact using the same names to label their elements. Such as `id="header"` or `"footer"`, `"main"`, `"nav"`, `"section"`, `"article"`, `"aside"`, etc. For each of these most common labels we now have elements we can use instead. So instead of
 
 ```html
 <div id="header">...</div>
@@ -172,7 +172,7 @@ Support for semantic elements is easily achieved in older browsers by linking to
 - [Dive into HTML5 - Semantic Elements](http://diveintohtml5.info/semantics.html#new-elements)
 - [MDN - HTML - Element Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/HTML5-Semantic-Elements' title='HTML5 Semantic Elements'>HTML5 Semantic Elements</a> on Learn.co and start learning to code for free.</p>
+<p class='util--hide'>View <a href='https://learn.co/lessons/HTML5-Semantic-Elements'>HTML5 Semantic Elements</a> on Learn.co and start learning to code for free.</p>
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/HTML5-Semantic-Elements'>HTML5 Semantic Elements</a> on Learn.co and start learning to code for free.</p>
 
